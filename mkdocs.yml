@@ -1,0 +1,6 @@
+site_name: MkLorum
+site_url: https://kmmille-rtd-tutorial.readthedocs.io/
+nav:
+    - Home: index.md
+    - About: testing.md
+theme: readthedocs
